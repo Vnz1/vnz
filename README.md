@@ -2,8 +2,8 @@
 <h1> ✌ Olá, tudo bem?</h1>
 
 
-<p> Meu nome é Rafael Duarte e tenho 13 anos! <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="13" /> <b>Brazil, Rio de Janeiro</b>.
-<p>
+<h2> Meu nome é Rafael Duarte e tenho 13 anos! <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="13" /> <b>Brazil, Rio de Janeiro</b>.
+<h2>
 
 ## About me
 
