@@ -35,4 +35,4 @@
 
 <h2>Contato</h2>
 
-<p><a href="https://discord.com/users/890695686121742417" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%230077B5.svg?&style=for-the-badge&logo=Daiscord&logoColor=white" /></a>
+<p><a href="https://discord.com/users/890695686121742417" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%230077B5.svg?&style=for-the-badge&logo=dscord&logoColor=white" /></a>
