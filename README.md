@@ -33,8 +33,7 @@
 <br />
 <br />
 
-<h2>Contact me </h2>
+<h2>Contato</h2>
 
-<p><a href="https://discord.gg/s4zh9SFFCN" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:speedcodesuporte@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-</p>
+<p><a href="https://discord.gg/s4zh9SFFCN" target="_blank"><img alt="Vnz#0001" src="https://img.shields.io/badge/Discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+>
