@@ -2,7 +2,7 @@
 <h1> ✌ Olá, tudo bem?</h1>
 
 
-<h2> Meu nome é Rafael Duarte e tenho 13 anos! <img src="https://media.discordapp.net/attachments/894580862761455616/894581071063158804/dormrm_1.gif?width=1049&height=586" width="13" />
+<h2> Meu nome é Rafael Duarte e tenho 13 anos! <img src="https://media.discordapp.net/attachments/894580862761455616/894581071063158804/dormrm_1.gif?width=1049&height=586" width="30" />
 <h2>
 
 ## About me
