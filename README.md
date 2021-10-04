@@ -2,7 +2,7 @@
 <h1> ✌ Olá, tudo bem?</h1>
 
 
-<h2> Meu nome é Rafael Duarte e tenho 13 anos! <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="13" /> <b>Brazil, Rio de Janeiro</b>.
+<h2> Meu nome é Rafael Duarte e tenho 13 anos! <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fclubedosgeeks.com.br%2Fprogramacao%2F10-gifs-que-retratam-a-vida-de-um-programador&psig=AOvVaw0StYEOsako94y1-TZK9Cnr&ust=1633441464589000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPC30OXxsPMCFQAAAAAdAAAAABAD" width="13" />
 <h2>
 
 ## About me
